@@ -13,7 +13,8 @@ for entry in entries:
 
 with open('README.md', 'w') as f:
     f.write(r'''
-    /**
+```
+/**
 *　　　　　　　　┏┓　　　┏┓+ +
 *　　　　　　　┏┛┻━━━┛┻┓ + +
 *　　　　　　　┃　　　　　　　┃ 　
@@ -25,8 +26,8 @@ with open('README.md', 'w') as f:
 *　　　　　　　┗━┓　　　┏━┛
 *　　　　　　　　　┃　　　┃　　　　　　　　　　　
 *　　　　　　　　　┃　　　┃ + + + +
-*　　　　　　　　　┃　　　┃　　　　　　　
-*　　　　　　　　　┃　　　┃ +　
+*　　　　　　　　　┃　　　┃　　　　　
+*　　　　　　　　　┃　　　┃ +
 *　　　　　　　　　┃　　　┃
 *　　　　　　　　　┃　　　┃　　+　　　　　　　　　
 *　　　　　　　　　┃　 　　┗━━━┓ + +
@@ -36,7 +37,7 @@ with open('README.md', 'w') as f:
 *　　　　　　　　　　┃┫┫　┃┫┫
 *　　　　　　　　　　┗┻┛　┗┻┛+ + + +
 */
-
+```
 ## Latest blog posts
 ''')
     f.write('- [{}]({})\n'.format(title, url))
