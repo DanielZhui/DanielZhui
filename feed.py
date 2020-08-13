@@ -39,6 +39,6 @@ with open('README.md', 'w') as f:
 [🌆 More blog posts](http://www.wollens.top/blog)
 
 ## Statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=netcan)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=netcan&hide=ipynb,html&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=DanielZhui)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielZhui&hide=ipynb,html&layout=compact)
 ''')
