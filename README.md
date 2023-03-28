@@ -19,5 +19,5 @@
 ```
 
 ## Statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=DanielZhui)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielZhui&hide=ipynb,html&layout=compact)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DanielZhui&show_icons=true&theme=dark)
+![Lang](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielZhui&hide=ipynb,html&layout=compact)
